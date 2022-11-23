@@ -3,3 +3,8 @@ let obj = {
     age:28
 
 }
+
+let obj1 = {
+    name:'zahra',
+    age:22
+}
