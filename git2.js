@@ -6,5 +6,6 @@ let obj = {
 
 let obj1 = {
     name:'zahra',
-    age:22
+    age:22,
+    job:'programmer'
 }
